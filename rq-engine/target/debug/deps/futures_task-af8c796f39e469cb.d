@@ -1,0 +1,11 @@
+/Users/lz1998/go/src/github.com/lz1998/rs-qq/rq-engine/target/debug/deps/futures_task-af8c796f39e469cb.rmeta: /Users/lz1998/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-task-0.3.19/src/lib.rs /Users/lz1998/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-task-0.3.19/src/spawn.rs /Users/lz1998/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-task-0.3.19/src/arc_wake.rs /Users/lz1998/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-task-0.3.19/src/waker.rs /Users/lz1998/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-task-0.3.19/src/waker_ref.rs /Users/lz1998/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-task-0.3.19/src/future_obj.rs /Users/lz1998/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-task-0.3.19/src/noop_waker.rs
+
+/Users/lz1998/go/src/github.com/lz1998/rs-qq/rq-engine/target/debug/deps/futures_task-af8c796f39e469cb.d: /Users/lz1998/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-task-0.3.19/src/lib.rs /Users/lz1998/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-task-0.3.19/src/spawn.rs /Users/lz1998/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-task-0.3.19/src/arc_wake.rs /Users/lz1998/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-task-0.3.19/src/waker.rs /Users/lz1998/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-task-0.3.19/src/waker_ref.rs /Users/lz1998/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-task-0.3.19/src/future_obj.rs /Users/lz1998/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-task-0.3.19/src/noop_waker.rs
+
+/Users/lz1998/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-task-0.3.19/src/lib.rs:
+/Users/lz1998/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-task-0.3.19/src/spawn.rs:
+/Users/lz1998/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-task-0.3.19/src/arc_wake.rs:
+/Users/lz1998/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-task-0.3.19/src/waker.rs:
+/Users/lz1998/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-task-0.3.19/src/waker_ref.rs:
+/Users/lz1998/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-task-0.3.19/src/future_obj.rs:
+/Users/lz1998/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-task-0.3.19/src/noop_waker.rs:

@@ -1,0 +1,11 @@
+/Users/lz1998/go/src/github.com/lz1998/rs-qq/rq-engine/target/debug/deps/futures_core-97b91790664dd72a.rmeta: /Users/lz1998/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-core-0.3.19/src/lib.rs /Users/lz1998/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-core-0.3.19/src/future.rs /Users/lz1998/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-core-0.3.19/src/stream.rs /Users/lz1998/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-core-0.3.19/src/task/mod.rs /Users/lz1998/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-core-0.3.19/src/task/poll.rs /Users/lz1998/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-core-0.3.19/src/task/__internal/mod.rs /Users/lz1998/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-core-0.3.19/src/task/__internal/atomic_waker.rs
+
+/Users/lz1998/go/src/github.com/lz1998/rs-qq/rq-engine/target/debug/deps/futures_core-97b91790664dd72a.d: /Users/lz1998/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-core-0.3.19/src/lib.rs /Users/lz1998/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-core-0.3.19/src/future.rs /Users/lz1998/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-core-0.3.19/src/stream.rs /Users/lz1998/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-core-0.3.19/src/task/mod.rs /Users/lz1998/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-core-0.3.19/src/task/poll.rs /Users/lz1998/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-core-0.3.19/src/task/__internal/mod.rs /Users/lz1998/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-core-0.3.19/src/task/__internal/atomic_waker.rs
+
+/Users/lz1998/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-core-0.3.19/src/lib.rs:
+/Users/lz1998/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-core-0.3.19/src/future.rs:
+/Users/lz1998/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-core-0.3.19/src/stream.rs:
+/Users/lz1998/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-core-0.3.19/src/task/mod.rs:
+/Users/lz1998/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-core-0.3.19/src/task/poll.rs:
+/Users/lz1998/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-core-0.3.19/src/task/__internal/mod.rs:
+/Users/lz1998/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-core-0.3.19/src/task/__internal/atomic_waker.rs:
